@@ -36,11 +36,6 @@ patternlab-bootstrap-starterkit/
 ```
 
 
-<p align="center">
-  <img src='http://jannisbrandt.de/screenshot-patternlab.png' alt="Pattern Lab Logo" style="max-width: 100%;" />
-</p>
-
-
 ## PATTERN LAB BOOTSTRAP STARTERKIT EDITION-NODE-GULP
 
 ### Installation
@@ -55,3 +50,9 @@ patternlab-bootstrap-starterkit/
    gulp patternlab:serve    
    ```
 4.   Open the browser with http://127.0.0.1:3000/ and you can see your Bootstrap Pattern Lab Libary
+
+### How it looks like
+
+<p align="center">
+  <img src='http://jannisbrandt.de/screenshot-patternlab.png' alt="Pattern Lab Logo" style="max-width: 100%;" />
+</p>
