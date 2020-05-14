@@ -35,6 +35,12 @@ patternlab-bootstrap-starterkit/
 
 ```
 
+
+<p align="center">
+  <img src='http://jannisbrandt.de/screenshot-patternlab.png' alt="Pattern Lab Logo" style="max-width: 100%;" />
+</p>
+
+
 ## PATTERN LAB BOOTSTRAP STARTERKIT EDITION-NODE-GULP
 
 ### Installation
