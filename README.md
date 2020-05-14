@@ -3,7 +3,26 @@
   <img src='http://jannisbrandt.de/jb-logo.png' width="190" alt="Pattern Lab Logo" style="max-width: 100%;" />
 </p>
 
-# Pattern Lab Bootstrap Starterkit 
+<p align="center">
+  <a href="https://getbootstrap.com/">
+  <img src='http://jannisbrandt.de/jb-logo.png' width="100" alt="Pattern Lab Logo" style="max-width: 100%;" />
+  </a>
+</p>
+
+<h3 align="center">Pattern Lab Bootstrap Starterkit </h3>
+
+<p align="center">
+  What is Pattern Lab Bootstrap Starterkit? A simple Starterkit with all Patterns from the sleek, intuitive, and powerful front-end framework called Bootstrap. 
+  <br>
+  <a href="https://getbootstrap.com/docs/4.5/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+  <a href="mailto:sayhello@jannisbrandt.de">Report bug</a>
+  ·
+  <a href="mailto:sayhello@jannisbrandt.de">Request feature</a>
+  ·
+  <a href="https://www.instagram.com/waltzwithfrog/">Instagram</a>
+</p>
+
 
 ## What's included
 
