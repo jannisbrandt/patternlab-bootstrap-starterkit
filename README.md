@@ -29,7 +29,7 @@ patternlab-bootstrap-starterkit/
    ```bash
     npm install
    ```
-2. gulpfile.js` will be added to your project
+2. gulpfile.js will be added to your project
 3. Open a terminal window and following along below:
    ```bash
    gulp patternlab:serve    
