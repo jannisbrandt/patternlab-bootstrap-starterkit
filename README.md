@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src='http://jannisbrandt.de/jb-logo.png' width="190" alt="Pattern Lab Logo" style="max-width: 100%;" />
-</p>
-
 <p align="center">
   <a href="https://getbootstrap.com/">
   <img src='http://jannisbrandt.de/jb-logo.png' width="100" alt="Pattern Lab Logo" style="max-width: 100%;" />
