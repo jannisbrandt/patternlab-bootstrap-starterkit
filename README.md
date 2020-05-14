@@ -7,7 +7,7 @@
 <h3 align="center">Pattern Lab Bootstrap Starterkit </h3>
 
 <p align="center">
-  What is Pattern Lab Bootstrap Starterkit? A simple Starterkit with all Patterns from the sleek, intuitive, and powerful front-end framework called Bootstrap. 
+  What is Pattern Lab Bootstrap Starterkit? A simple Pattern Lab Starterkit (node-gulp version) with all Patterns from the sleek, intuitive, and powerful front-end framework called Bootstrap. 
   <br>
   <a href="https://getbootstrap.com/docs/4.5/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
