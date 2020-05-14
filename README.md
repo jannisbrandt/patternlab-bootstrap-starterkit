@@ -35,4 +35,4 @@ patternlab-bootstrap-starterkit/
      ```bash
     gulp patternlab:serve    
     ```
-4.   that open the browser with http://127.0.0.1:3000/ and you can see your Bootstrap Pattern Lab Libary
+4.   Open the browser with http://127.0.0.1:3000/ and you can see your Bootstrap Pattern Lab Libary
