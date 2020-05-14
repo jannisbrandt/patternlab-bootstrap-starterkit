@@ -15,8 +15,8 @@
   ·
   <a href="mailto:sayhello@jannisbrandt.de">Request feature</a>
   ·
-  <a href="https://www.instagram.com/waltzwithfrog/">Instagram</a>
-</p>
+  <a href="https://patternlab.io/">Patternlab Documentation/a>
+  </p>
 
 
 ## What's included
