@@ -35,7 +35,7 @@ patternlab-bootstrap-starterkit/
 
 ```
 
-## PATTERN LAB NODE EDITION-NODE-GULP
+## PATTERN LAB BOOTSTRAP STARTERKIT EDITION-NODE-GULP
 
 ### Installation
 
