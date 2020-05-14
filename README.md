@@ -28,13 +28,11 @@ patternlab-bootstrap-starterkit/
 1. Open a terminal window and following along below:
     ```bash
     npm install
-    
-    
+    ```
 2. gulpfile.js` will be added to your project
-    
-    
+     
 3.   Open a terminal window and following along below:
      ```bash
     gulp patternlab:serve    
-
+    ```
 4.   that open the browser with http://127.0.0.1:3000/ and you can see your Bootstrap Pattern Lab Libary
