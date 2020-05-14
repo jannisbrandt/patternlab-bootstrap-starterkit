@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src='http://jannisbrandt.de/jb-logo.png' width="300" alt="Pattern Lab Logo" style="max-width: 100%;" />
+  <img src='http://jannisbrandt.de/jb-logo.png' width="190" alt="Pattern Lab Logo" style="max-width: 100%;" />
 </p>
 
 # Pattern Lab Bootstrap Starterkit 
