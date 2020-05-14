@@ -15,7 +15,7 @@
   ·
   <a href="mailto:sayhello@jannisbrandt.de">Request feature</a>
   ·
-  <a href="https://patternlab.io/">Patternlab Documentation/a>
+  <a href="https://patternlab.io/">Patternlab Documentation</a>
   </p>
 
 
